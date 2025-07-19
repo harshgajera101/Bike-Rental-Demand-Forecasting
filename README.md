@@ -159,3 +159,10 @@ python app.py
 - **Flask** community for the robust web framework
 - **OpenWeatherMap** for providing free weather API access
 - **Scikit-learn** for data preprocessing tools
+
+## 👨‍💻 Author
+
+**Harsh Gajera**
+- GitHub: [@harshgajera101](https://github.com/harshgajera101)
+- LinkedIn: [Harsh Gajera](https://linkedin.com/in/gajera-harsh)
+
