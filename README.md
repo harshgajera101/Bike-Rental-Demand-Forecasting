@@ -2,8 +2,8 @@
 
 A web-based application that predicts bike rental demand based on weather conditions and environmental factors. Users can register, login, and get accurate predictions for bike rental demand using machine learning algorithms.
 
-![Homepage Screenshot]()
-<!-- Add homepage screenshot here -->
+<img width="1283" height="716" alt="Screenshot 2025-07-19 at 7 13 55 PM" src="https://github.com/user-attachments/assets/74b62f52-c126-4c07-bea1-f2153d1d4307" />
+
 
 ## 🌟 Features
 
@@ -11,6 +11,11 @@ A web-based application that predicts bike rental demand based on weather condit
 - 📝 **User Registration**: Secure signup with encrypted password storage
 - 🔑 **User Login**: Session-based authentication system
 - 🔒 **Password Security**: Implemented using bcrypt hashing
+
+<img width="1282" height="714" alt="Screenshot 2025-07-19 at 7 14 32 PM" src="https://github.com/user-attachments/assets/d7a9dcce-2930-457f-bdad-8c31f12f4e71" />
+<img width="1282" height="714" alt="Screenshot 2025-07-19 at 7 15 04 PM" src="https://github.com/user-attachments/assets/8c2ae1b4-b02b-499e-8105-46a746396ae9" />
+<img width="1279" height="715" alt="Screenshot 2025-07-19 at 7 15 48 PM" src="https://github.com/user-attachments/assets/5a4d9ccc-92c9-4b89-904d-65a1adbea955" />
+
 
 ### 📊 Bike Demand Prediction
 - ⚡ **Real-time Predictions**: Enter weather parameters to get instant bike demand forecasts
@@ -23,27 +28,24 @@ A web-based application that predicts bike rental demand based on weather condit
   - Season selection
   - And more environmental factors
 
-![Prediction Form Screenshot]()
-<!-- Add prediction form screenshot here -->
+<img width="1279" height="718" alt="Screenshot 2025-07-19 at 7 16 41 PM" src="https://github.com/user-attachments/assets/fd5f1f44-bce9-4f33-a043-c78a2e88ccdd" />
+<img width="1280" height="721" alt="Screenshot 2025-07-19 at 7 17 53 PM" src="https://github.com/user-attachments/assets/542b3b21-41dc-4634-9610-daf69390cfc0" />
+
 
 ### 📈 Prediction History
 - 📋 **Table View**: Comprehensive history of all predictions made
 - 📉 **Graphical Analysis**: Interactive charts and graphs for data visualization
 - 👤 **User-specific Data**: Each user can view their own prediction history
 
-![Prediction History Screenshot]()
-<!-- Add prediction history table screenshot here -->
-
-![Prediction Graph Screenshot]()
-<!-- Add prediction graph screenshot here -->
+<img width="1270" height="703" alt="Screenshot 2025-07-19 at 7 19 17 PM" src="https://github.com/user-attachments/assets/849338d1-af28-44f5-bb9a-cc06f2864350" />
 
 ### 🌤️ Weather Integration
 - ⛅ **Real-time Weather Data**: Get current weather information for any location
 - 🔗 **API Integration**: Fetch live weather data without leaving the application
 - 🧠 **Convenient Input**: Auto-populate prediction form with current weather conditions
 
-![Weather Page Screenshot]()
-<!-- Add weather page screenshot here -->
+<img width="1279" height="716" alt="Screenshot 2025-07-19 at 7 20 03 PM" src="https://github.com/user-attachments/assets/e6c1be06-a222-44a2-9a3c-88384f742301" />
+
 
 ## 🛠️ Technology Stack
 
